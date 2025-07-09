@@ -51,6 +51,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 - [Supported LIS Machines](#supported-lis-machines)
 - [Credits](#credits)
 - [ License](#-license)
+- [Enterprise](#-enterprise)
 - [ Contacts](#-contacts)
 
 ---
@@ -292,6 +293,7 @@ Special thanks to **Imark**, **Danphe**, and all other contributors for their co
 Please read the following [License](https://github.com/Sam101-pic/HTML-CSS/blob/3629748534a69110de52dfb1f68c021482a0f940/LICENSE) carefully. Thank you!
 
 ---
+## Enterprise
 
 ## 💬 Contacts
 For any further details be sure to contact us through our social links and for furthermore details be sure to mail me.
